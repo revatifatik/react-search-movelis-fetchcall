@@ -1,2 +1,8 @@
-# react-search-movelis-fetchcall
-Search the movelist by enterign the year in input and clicking on search to make a call using basic javascript fetch api to get the required list.
+##API to hit
+
+`https://jsonmock.hackerrank.com/api/movies?Year=<Year>`
+
+##When no results found
+
+In case of no results render below div
+`<div data-testid="no-result">No Results Found</div>`
